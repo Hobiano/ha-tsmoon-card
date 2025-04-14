@@ -1,0 +1,31 @@
+{
+  "common": {
+    "version": "الإصدار",
+    "title": "الشمس والقمر البسيط",
+    "title_card": "بطاقة الشمس والقمر المبسطه",
+    "description": "بطاقة بسيطة لعرض حالة الشمس والقمر.",
+    "invalid_configuration": "تكوين غير صالح"
+  },
+  "editor": {
+    "moon_entity": "كيان القمر (اختياري)"
+  },
+  "errors": {
+    "missing_moon_entity": "لم يتم العثور على كيان القمر في التكوين",
+    "invalid_icon_type": "نواع الأيقونات التالية في تكوينك غير صالحة:"
+  },
+  "card": {
+    "moon_phase": "طور القمر",
+    "moon_rise": "شروق القمر",
+    "moon_set": "غروب القمر"
+  },
+  "moon": {
+    "new_moon": "محاق",
+    "waxing_crescent": "هلال متزايد",
+    "first_quarter": "الربع الأول",
+    "waxing_gibbous": "قمر متزايد جزئياً",
+    "full_moon": "بدر",
+    "waning_gibbous": "قمر متناقص جزئياً",
+    "last_quarter": "الربع الأخير",
+    "waning_crescent": "هلال متناقص"
+  }
+}
